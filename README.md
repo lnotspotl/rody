@@ -22,7 +22,7 @@ pip3 install -e .
 ## Resources
 - [Rigid Body Dynamics Algorithms]
 - [Springer Handbook of Robotics]
-- [Robotics Modelling, Planning and Control]
+- [Robotics: Modelling, Planning and Control]
 
 [Rigid Body Dynamics Algorithms]: <https://link.springer.com/book/10.1007/978-1-4899-7560-7>
 [Robotics: Modelling, Planning and Control]: <https://link.springer.com/book/10.1007/978-1-84628-642-1>
